@@ -14,14 +14,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "919443612001-p15vlsspf2pj1832ki4n2jjlc08672bm.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "DarkSideArrival.LifePilot",
-            "certificate_hash": "e8ced10dc4fad8a340889013363362dce61e1e05"
-          }
-        },
-        {
           "client_id": "919443612001-j74j9um4mpk0njqq0nmdl0vldss28ul8.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -44,7 +36,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:919443612001:android:b9e9b00c3d06d3323d2520",
+        "mobilesdk_app_id": "1:919443612001:android:d09b47faac0908293d2520",
         "android_client_info": {
           "package_name": "darksidearrivals.lifepilot"
         }
