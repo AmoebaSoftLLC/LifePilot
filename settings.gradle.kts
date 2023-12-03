@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "darksidearrivals.lifepilot"
 include(":app")
+include(":exercise_pack")
